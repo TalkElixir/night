@@ -1,9 +1,9 @@
 ---
-name: '第 100 期<你的话题名称>'
+name: '我想讲一个topic'
 title: '【分享计划】'
 labels: 分享话题
 assignees: zhenfeng-zhu
-about: 此模板主要是针对提交分享计划的小伙伴，否则请忽略。
+about: 此模版是勇于分享话题
 ---
 
 ## <话题名称>
