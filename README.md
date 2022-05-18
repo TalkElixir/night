@@ -54,8 +54,11 @@ TalkElixir 提供给大家一种渠道，希望可以将探究深入到 Elixir �
 
 ### 我想听一个topic
 
+[**点击这里**](https://github.com/TalkElixir/night/issues/new?assignees=zhenfeng-zhu&labels=%E5%88%86%E4%BA%AB%E8%AF%9D%E9%A2%98%2C+Elixir+%E5%A4%9C%E8%AF%BB&template=request.md&title=%E3%80%90%E6%88%91%E6%83%B3%E5%90%AC%E4%B8%80%E4%B8%AAtopic%E3%80%91)
+
 ### 我想讲一个topic
 
+[**点击这里**](https://github.com/TalkElixir/night/issues/new?assignees=zhenfeng-zhu&labels=%E5%88%86%E4%BA%AB%E8%AF%9D%E9%A2%98&template=share.md&title=%E3%80%90%E5%88%86%E4%BA%AB%E8%AE%A1%E5%88%92%E3%80%91)
                                                                      
 ---
 # Thanks
