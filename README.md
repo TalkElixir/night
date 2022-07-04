@@ -47,6 +47,7 @@
 | 1    | 『我』和Elixir的故事 |                                        | [bilibili](https://www.bilibili.com/video/BV1LP4y1F7qU/) |
 | 2    | 快学 Erlang          | [阿目](https://github.com/zhenyuanlau) | [bilibili](https://www.bilibili.com/video/BV13L4y1T7B6/) |
 | 3    | 看 Broadway 源码，发现 Bug 的历程 | [Ken Chen](https://github.com/kenspirit) | [bilibili](https://www.bilibili.com/video/BV14Y411T7RV) |
+| 4    | Formular - Elixir 程序中管理业务逻辑的一个实践 | [五柳](https://github.com/qhwa) | [bilibili](https://www.bilibili.com/video/BV11B4y1W7yN) |
 
 ## 如何发起分享提案
 
