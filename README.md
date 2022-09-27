@@ -48,6 +48,7 @@
 | 2    | 快学 Erlang          | [阿目](https://github.com/zhenyuanlau) | [bilibili](https://www.bilibili.com/video/BV13L4y1T7B6/) |
 | 3    | 看 Broadway 源码，发现 Bug 的历程 | [Ken Chen](https://github.com/kenspirit) | [bilibili](https://www.bilibili.com/video/BV14Y411T7RV) |
 | 4    | Formular - Elixir 程序中管理业务逻辑的一个实践 | [五柳](https://github.com/qhwa) | [bilibili](https://www.bilibili.com/video/BV11B4y1W7yN) |
+| 5    | Zig 写 NIF 的新玩法 | [jackalcooper](https://github.com/jackalcooper) | [bilibili](https://www.bilibili.com/video/BV11d4y1R7qv/) |
 
 ## 如何发起分享提案
 
